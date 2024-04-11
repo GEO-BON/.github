@@ -3,7 +3,7 @@ The Group on Earth Observations Biodiversity Observation Network (GEO BON) is a 
 
 ## Tools Hosted by the GEO BON secretariat
 - [BON in a Box EBV/indicator pipelines](https://github.com/GEO-BON/bon-in-a-box-pipelines)
-- [BON in a Box tools an projects search portals](https://boninabox.geobon.org/index)
+- [BON in a Box tools and projects search portals](https://boninabox.geobon.org/index)
 
 ## Tools hosted by GEO BON members/partners
 Coalition for Conservation Genetics: [Genetic Diversity Indicator guidelines](https://github.com/CCGenetics/guidelines-genetic-diversity-indicators)
