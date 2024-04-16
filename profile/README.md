@@ -1,4 +1,6 @@
-# GEO BON
+<h1><img alt="GEO BON" src="https://github.com/GEO-BON/.github/assets/6223744/6745e5a4-7ccb-473f-9825-9e118efd2df8" width="300"></h1>
+
+
 The Group on Earth Observations Biodiversity Observation Network (GEO BON) is a global network of researchers dedicated to improving the acquisition, coordination, and delivery of biodiversity information at the global, regional, and national levels.
 
 ## Tools Hosted by the GEO BON secretariat
